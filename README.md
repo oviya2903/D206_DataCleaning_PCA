@@ -1,5 +1,13 @@
 Data Cleaning continues building proficiency in the data analytics life cycle with data preparation skills. This course addresses exploring, transforming, and imputing data as well as handling outliers. Learners write code to manipulate, structure, and clean data as well as to reduce features in data sets.
 
-Scenario: Medical Readmission Data
+4030.3.1 : Predicting Obstacles in Data Analysis
 
-In the medical industry, readmission of patients is such a problem that an external organization, Centers for Medicare and Medicaid Services or CMS, penalizes hospitals for excessive readmissions. When it comes to readmission penalties, studies show that many hospitals are overconfident and underprepared. The percentage of hospitals penalized for readmissions has increased each year since CMS began imposing penalties, and, according to the CMS reporting, as much as 78 percent of hospitals were fined in fiscal year 2015. However, three-quarters of hospitals feel confident in their ability to reduce readmissions, and only 55 percent of them anticipate receiving a penalty this year. Given the historical trend and the addition of COPD and hip and knee replacement to the list of medical conditions measured, the percentage of hospitals penalized will likely be much higher than 55 percent. Additionally, although hospitals are applying various reduction strategies, fewer than 1 in 5 utilize technology that is specific to reducing their readmissions, so they may not be doing all that they can. You are an analyst on a team of analysts for a popular medical hospital chain with patients in almost every state in the United States. You have been asked to investigate the extent to which readmission is a problem for this chain of hospitals.
+The graduate predicts potential obstacles in data analysis based on the quality of data provided.
+
+4030.3.2 : Preparing Data for Analysis
+
+The graduate prepares data for analysis to address organizational needs.
+
+4030.3.3 : Manipulating Data for Analysis
+
+The graduate writes reusable code to manipulate and clean data in preparation for analysis.
